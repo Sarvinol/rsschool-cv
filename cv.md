@@ -2,7 +2,7 @@
 ## Contact information
 - Phone: +79054718659
 - Email: chumakov_gg@mail.ru
-- Sarvinol
+- Git: Sarvinol
 ## About Myself
 ## Skills
 ## Code example
